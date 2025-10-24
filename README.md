@@ -1,7 +1,8 @@
 # Ruska GhostTTY theme
 
-Ruska
-: Finnish word for the phenomenon of autumn foliage, where leaves on trees and plants change color
+> `Ruska`
+> 
+> Finnish word for the phenomenon of autumn foliage, where leaves on trees and plants change color
 
 # Screenshot
 
